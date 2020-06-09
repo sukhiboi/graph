@@ -97,3 +97,12 @@ QUEUE ANSWERS
     ee, cc, aa, bb, ii
     cc, aa, bb, ii
     aa, bb, ii
+
+3.  aa
+    ee, ll
+    ll, cc, gg, kk, ii, hh
+    cc, gg, kk, ii, hh, ff, bb
+    gg, kk, ii, hh, ff, bb
+    kk, ii, hh, ff, bb
+    ii, hh, ff, bb
+    hh, ff, bb
