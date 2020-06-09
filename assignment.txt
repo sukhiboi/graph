@@ -85,3 +85,15 @@ QUEUE ANSWERS
     ff, dd, mm
     dd, mm
     mm
+
+2.  jj
+    dd, gg, hh, kk, ll, mm
+    gg, hh, kk, ll, mm, ff
+    hh, kk, ll, mm, ff, ee, cc
+    kk, ll, mm, ff, ee, cc
+    ll, mm, ff, ee, cc, aa, bb
+    mm, ff, ee, cc, aa, bb, 
+    ff, ee, cc, aa, bb
+    ee, cc, aa, bb, ii
+    cc, aa, bb, ii
+    aa, bb, ii
