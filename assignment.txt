@@ -123,3 +123,12 @@ QUEUE ANSWERS
     bb, ff, ee, aa, dd, mm
     ff, ee, aa, dd, mm
     ee, aa, dd, mm, ll, cc
+
+6.  ee
+    kk, aa, hh, ii
+    aa, hh, ii, bb, dd, mm
+    hh, ii, bb, dd, mm, ll
+    ii, bb, dd, mm, ll, gg
+    bb, dd, mm, ll, gg, ff
+    dd, mm, ll, gg, ff
+    mm, ll, gg, ff
