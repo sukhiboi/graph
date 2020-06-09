@@ -73,16 +73,15 @@ ANSWERS
 
 QUEUE ANSWERS
 ================================
-1. 
-bb
-aa
-ee, ll
-ll, cc, gg, kk, ii, hh
-cc, gg, kk, ii, hh, ff
-gg, kk, ii, hh, ff
-kk, ii, hh, ff
-ii, hh, ff, dd, mm
-hh, ff, dd, mm
-ff, dd, mm
-dd, mm
-mm
+1.  bb
+    aa
+    ee, ll
+    ll, cc, gg, kk, ii, hh
+    cc, gg, kk, ii, hh, ff
+    gg, kk, ii, hh, ff
+    kk, ii, hh, ff
+    ii, hh, ff, dd, mm
+    hh, ff, dd, mm
+    ff, dd, mm
+    dd, mm
+    mm
