@@ -132,3 +132,16 @@ QUEUE ANSWERS
     bb, dd, mm, ll, gg, ff
     dd, mm, ll, gg, ff
     mm, ll, gg, ff
+
+7.  mm
+    hh, cc, ll, kk
+    cc, ll, kk, dd, gg, ee
+    ll, kk, dd, gg, ee, ff, bb
+    kk, dd, gg, ee, ff, bb
+    dd, gg, ee, ff, bb, aa
+    gg, ee, ff, bb, aa
+    ee, ff, bb, aa
+    ff, bb, aa, ii
+    bb, aa, ii
+    aa, ii
+    ii
