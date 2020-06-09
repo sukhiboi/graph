@@ -117,3 +117,9 @@ QUEUE ANSWERS
     cc, aa, ii, mm, bb
     aa, ii, mm, bb
     ii, mm, bb
+
+5.  ii
+    kk, bb, ff
+    bb, ff, ee, aa, dd, mm
+    ff, ee, aa, dd, mm
+    ee, aa, dd, mm, ll, cc
