@@ -69,3 +69,20 @@ ANSWERS
 5. ii to ee = ii->kk->ee
 6. ee to mm = ee->kk->mm
 7. mm to jj = False
+
+
+QUEUE ANSWERS
+================================
+1. 
+bb
+aa
+ee, ll
+ll, cc, gg, kk, ii, hh
+cc, gg, kk, ii, hh, ff
+gg, kk, ii, hh, ff
+kk, ii, hh, ff
+ii, hh, ff, dd, mm
+hh, ff, dd, mm
+ff, dd, mm
+dd, mm
+mm
