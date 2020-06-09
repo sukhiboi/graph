@@ -106,3 +106,14 @@ QUEUE ANSWERS
     kk, ii, hh, ff, bb
     ii, hh, ff, bb
     hh, ff, bb
+
+4.  hh
+    dd, gg, ee
+    gg, ee, ff, kk, ll
+    ee, ff, kk, ll, cc
+    ff, kk, ll, cc, aa, ii
+    kk, ll, cc, aa, ii, mm
+    ll, cc, aa, ii, mm, bb
+    cc, aa, ii, mm, bb
+    aa, ii, mm, bb
+    ii, mm, bb
